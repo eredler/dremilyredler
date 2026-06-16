@@ -7,15 +7,16 @@ cv:
       username: emilyredler
   sections:
     Education:
-      - institution: "University of North Carolina at Charlotte"
-        area: "Organizational Science"
+      - institution: University of North Carolina at Charlotte
+        area: Organizational Science
         degree: Ph.D.
-        end_date: "2026-05"
+        end_date: 2026
+        start_date: 2020
         highlights:
-          - "Advisor: Dr. David Woehr"
-          - "Dissertation: *Operationalizing Diversity: A Measurement Focused
+          - Advisor: Dr. David Woehr
+          - Dissertation: *Operationalizing Diversity: A Measurement Focused
             Examination, Integration, and Synthesis for Organizational
-            Research.*"
+            Research.*
         location: Charlotte, NC
       - institution: "University of North Carolina at Charlotte"
         area: "Industrial-Organizational Psychology"
