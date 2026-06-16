@@ -7,17 +7,15 @@ cv:
     - network: LinkedIn
       username: emilyredler
   sections:
-  Education:
-   - institution: University of North Carolina at Charlotte
+    Education:
+      - institution: University of North Carolina at Charlotte
         area: Organizational Science
         degree: Ph.D.
         end_date: 2026
         start_date: 2020
         highlights:
           - "Advisor: Dr. David Woehr"
-          - "Dissertation: *Operationalizing Diversity: A Measurement Focused
-            Examination, Integration, and Synthesis for Organizational
-            Research.*"
+          - "Dissertation: *Operationalizing Diversity: A Measurement Focused Examination, Integration, and Synthesis for Organizational Research.*"
         location: Charlotte, NC
         summary:
       - institution: University of North Carolina at Charlotte
@@ -27,8 +25,7 @@ cv:
         start_date: 2020
         highlights:
           - "Advisor: Dr. David Woehr"
-          - "Thesis: *Gender Diversity, Conflict, and Psychological Safety in
-            Teams: A Conceptual and Empirical Examination.*"
+          - "Thesis: *Gender Diversity, Conflict, and Psychological Safety in Teams: A Conceptual and Empirical Examination.*"
         location: Charlotte, NC
         summary:
       - institution: Davidson College
@@ -39,8 +36,7 @@ cv:
         location: Davidson, NC
         highlights:
           - "Minor: Data Science"
-          - "Thesis: *Examining Competence as a Buffer of the Physical
-            Attractiveness Penalty for Women in Hiring.*"
+          - "Thesis: *Examining Competence as a Buffer of the Physical Attractiveness Penalty for Women in Hiring.*"
         summary: cum laude
     Research Interests:
       - bullet: Diversity metrics and workplace inequality
