@@ -6,7 +6,7 @@ cv:
     - network: "LinkedIn"
       username: emilyredler
   sections:
-    education:
+    Education:
       - institution: "University of North Carolina at Charlotte"
         area: "Organizational Science"
         degree: Ph.D.
@@ -36,13 +36,13 @@ cv:
           - "Thesis: *Examining Competence as a Buffer of the Physical
             Attractiveness Penalty for Women in Hiring.*"
         summary: cum laude
-    research_interests:
+    Interests:
       - bullet: Diversity metrics and workplace inequality
       - bullet: Psychometric and algorithmic bias in assessment
       - bullet: Team dynamics, conflict, and psychological safety
       - bullet: Applied quantitative methods (e.g., multilevel modeling, latent
           profile/class analysis)
-    teaching_interests:
+    Teaching Interests:
       - bullet: Organizational Behavior
       - bullet: Industrial-Organizational Psychology
       - bullet: Statistics and Research Methods
@@ -50,7 +50,7 @@ cv:
       - bullet: Business Analytics
       - bullet: Team Dynamics and Conflict
       - bullet: Stereotyping and Prejudice
-    teaching_experience:
+    Teaching Experience:
       - company: "University of North Carolina at Charlotte"
         position: "Instructor of Record"
         start_date: "2024-08"
@@ -78,7 +78,7 @@ cv:
           - "Employment Law (Fall 2022 – Fall 2024)"
           - "Introduction to R (January 2022) for CARMA"
           - "Human Sexuality (Fall 2020, Spring 2021)"
-    publications:
+    Publications:
       - reversed_number: "Redler, E., Woehr, D. J., Loughry, M. L., & Ohland, M. (in
           press). Safety in the storm: Interactive effects of conflict types on
           psychological safety. *Small Group Research*."
@@ -234,7 +234,7 @@ cv:
           *Remote*
         summary: "*Week-long online synchronous course taught by Dr. Richard Landers on
           web scraping using browser-based tools, R, and RStudio.*"
-    applied_experience:
+    Experience:
       - company: "Applied Psychological Techniques (APTMetrics)"
         position: "Project Coordinator"
         start_date: "2024-06"
