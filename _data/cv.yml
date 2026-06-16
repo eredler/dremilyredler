@@ -1,37 +1,42 @@
 cv:
-  name: "Emily S. Redler"
-  email: "eredler@charlotte.edu"
-  phone: "+19176786920"
+  name: Emily S. Redler
+  email: eredler@charlotte.edu
+  phone: 9176786920
+  email: eredler@charlotte.edu
   social_networks:
-    - network: "LinkedIn"
+    - network: LinkedIn
       username: emilyredler
   sections:
-    Education:
-      - institution: University of North Carolina at Charlotte
+  Education:
+   - institution: University of North Carolina at Charlotte
         area: Organizational Science
         degree: Ph.D.
         end_date: 2026
         start_date: 2020
         highlights:
-          - Advisor: Dr. David Woehr
-          - Dissertation: *Operationalizing Diversity: A Measurement Focused
+          - "Advisor: Dr. David Woehr"
+          - "Dissertation: *Operationalizing Diversity: A Measurement Focused
             Examination, Integration, and Synthesis for Organizational
-            Research.*
+            Research.*"
         location: Charlotte, NC
-      - institution: "University of North Carolina at Charlotte"
-        area: "Industrial-Organizational Psychology"
+        summary:
+      - institution: University of North Carolina at Charlotte
+        area: Industrial-Organizational Psychology
         degree: M.A.
-        end_date: "2023-05"
+        end_date: 2023
+        start_date: 2020
         highlights:
           - "Advisor: Dr. David Woehr"
           - "Thesis: *Gender Diversity, Conflict, and Psychological Safety in
             Teams: A Conceptual and Empirical Examination.*"
         location: Charlotte, NC
-      - institution: "Davidson College"
+        summary:
+      - institution: Davidson College
         area: Psychology
         degree: B.S.
-        end_date: "2020-05"
-        location: "Davidson, NC"
+        end_date: 2020
+        start_date: 2016
+        location: Davidson, NC
         highlights:
           - "Minor: Data Science"
           - "Thesis: *Examining Competence as a Buffer of the Physical
@@ -52,9 +57,9 @@ cv:
       - bullet: Team Dynamics and Conflict
       - bullet: Stereotyping and Prejudice
     Teaching Experience:
-      - company: "University of North Carolina at Charlotte"
-        position: "Instructor of Record"
-        start_date: "2024-08"
+      - company: University of North Carolina at Charlotte
+        position: Instructor of Record
+        start_date: 2024-08
         end_date: "present"
         highlights:
           - Management and Organizational Behavior (Fall 2025, Spring 2026)
@@ -62,23 +67,23 @@ cv:
             2025, Summer 2025)
           - Acquiring and Maintaining Human Resources (Summer 2024, Summer 2026)
           - Maintained instructor effectiveness ratings between 4.4/5 and 5/5
-      - company: "University of North Carolina at Charlotte"
-        position: "General Psychology Lab Instructor"
-        start_date: "2020-08"
-        end_date: "2021-05"
+      - company: University of North Carolina at Charlotte
+        position: General Psychology Lab Instructor
+        start_date: 2020-08
+        end_date: 2021-05
         highlights:
           - Independently designed and taught a discussion- and activity-based
             lab course introducing students to core psychological concepts and
             research methodologies
         summary:
-      - company: "University of North Carolina at Charlotte"
-        position: "Teaching Assistant"
-        start_date: "2020-08"
-        end_date: "2024-12"
+      - company: University of North Carolina at Charlotte
+        position: Teaching Assistant
+        start_date: 2020-08
+        end_date: 2024-12
         highlights:
-          - "Employment Law (Fall 2022 – Fall 2024)"
-          - "Introduction to R (January 2022) for CARMA"
-          - "Human Sexuality (Fall 2020, Spring 2021)"
+          - Employment Law (Fall 2022 – Fall 2024)
+          - Introduction to R (January 2022) for CARMA
+          - Human Sexuality (Fall 2020, Spring 2021)
     Publications:
       - reversed_number: "Redler, E., Woehr, D. J., Loughry, M. L., & Ohland, M. (in
           press). Safety in the storm: Interactive effects of conflict types on
