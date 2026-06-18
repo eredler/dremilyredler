@@ -1,189 +1,316 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
+  name: Emily S. Redler
+  email: eredler@charlotte.edu
+  label: Visiting Assistant Professor at Gettysburg College
+ # phone: 9176786920
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
-
+      username: emilyredler
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: University of North Carolina at Charlotte
+        area: Organizational Science
+        degree: Ph.D.
+        end_date: 2026
+        start_date: 2020
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+          - "Advisor: Dr. David Woehr"
+          - "Dissertation: *Operationalizing Diversity: A Measurement Focused Examination, Integration, and Synthesis for Organizational Research.*"
+        location: Charlotte, NC
+        summary:
+      - institution: University of North Carolina at Charlotte
+        area: Industrial-Organizational Psychology
+        degree: M.A.
+        end_date: 2023
+        start_date: 2020
         highlights:
-          - Description 1.
-          - Description 2.
-
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+          - "Advisor: Dr. David Woehr"
+          - "Thesis: *Gender Diversity, Conflict, and Psychological Safety in Teams: A Conceptual and Empirical Examination.*"
+        location: Charlotte, NC
+        summary:
+      - institution: Davidson College
+        area: Psychology
+        degree: B.S.
+        end_date: 2020
+        start_date: 2016
+        location: Davidson, NC
         highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+          - "Minor: Data Science"
+          - "Thesis: *Examining Competence as a Buffer of the Physical Attractiveness Penalty for Women in Hiring.*"
+        summary: cum laude
+    Research Interests:
+      - bullet: Diversity metrics and workplace inequality
+      - bullet: Psychometric and algorithmic bias in assessment
+      - bullet: Team dynamics, conflict, and psychological safety
+      - bullet: Applied quantitative methods (e.g., multilevel modeling, latent
+          profile/class analysis)
+    Teaching Interests:
+      - bullet: Organizational Behavior
+      - bullet: Industrial-Organizational Psychology
+      - bullet: Statistics and Research Methods
+      - bullet: Psychological Testing/Psychometrics
+      - bullet: Business Analytics
+      - bullet: Team Dynamics and Conflict
+      - bullet: Stereotyping and Prejudice
+    Teaching Experience:
+      - company: University of North Carolina at Charlotte
+        position: Instructor of Record
+        start_date: 2024-08
+        end_date: "present"
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+          - Management and Organizational Behavior (Fall 2025, Spring 2026)
+          - Intro. to Industrial-Organizational Psychology (Fall 2024, Spring
+            2025, Summer 2025)
+          - Acquiring and Maintaining Human Resources (Summer 2024, Summer 2026)
+          - Maintained instructor effectiveness ratings between 4.4/5 and 5/5
+      - company: University of North Carolina at Charlotte
+        position: General Psychology Lab Instructor
+        start_date: 2020-08
+        end_date: 2021-05
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
+          - Independently designed and taught a discussion- and activity-based
+            lab course introducing students to core psychological concepts and
+            research methodologies
+        summary:
+      - company: University of North Carolina at Charlotte
+        position: Teaching Assistant
+        start_date: 2020-08
+        end_date: 2024-12
+        highlights:
+          - Employment Law (Fall 2022 – Fall 2024)
+          - Introduction to R (January 2022) for CARMA
+          - Human Sexuality (Fall 2020, Spring 2021)
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "Safety in the storm: Interactive effects of conflict types on psychological safety."
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+          - Emily Redler
+          - David Woehr
+          - Misty Loughry
+          - Matthew Ohland
+        publisher: Small Group Research
+        releaseDate: in press
+      - title: "Developing reviewer competence across the career span."
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+          - Meghan Davenport
+          - Natalie Wilde
+          - Emily Redler
+          - Cydnei Meredith
+        publisher: Industrial and Organizational Psychology
+        releaseDate: 2026    
+        url: https://doi.org/10.1017/iop.2025.10047
+        #summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers     regardless of the state of motion of the source.
+     # - reversed_number: "Redler, E., Woehr, D. J., Loughry, M. L., & Ohland, M. (in
+       #   press). Safety in the storm: Interactive effects of conflict types on
+       #   psychological safety. *Small Group Research*."
+     # - reversed_number: Davenport, M., Wilde, N., Redler, E., & Meredith, C. (2026).
+       #   Developing reviewer competence across the career span. *Industrial and
+      #    Organizational Psychology*, *19* (1), 37–41.
+       #   https://doi.org/10.1017/iop.2025.10047
+    Chaired Conference Symposia:
+      - "*(† indicates shared co-chair role)*"
+      - 1. **Redler, E.† (discussant)**, Wilde, N.† & Meyer, K.† (2022, August 4–7).
+        Building a Better Management Science Through Theory Testing and
+        Refinement [Showcase symposium session]. Academy of Management (AOM),
+        Seattle, WA.
+    Conference Talks:
+      - 4. **Redler, E.**, Woehr, D., Loughry, M., & Ohland, M. (2023, October
+          25–28). *The Impact of Team Diversity on the Relationship Between
+          Conflict and Team Process Outcomes* [Roundtable conference
+          presentation]. Southern Management Association (SMA), St. Pete’s
+          Beach, FL.
+      - "3. Wilde, N. & **Redler, E.** (2023, October 25–28). *I Always Feel Like Somebody’s Watchin’ Me: The Effect of Attention Checks and Voyeur Warnings on Social Desirability Responding* [Symposium presentation]. Southern Management Association (SMA), St. Pete’s Beach, FL."
+      - "2. **Redler, E.**, Wilde, N., Meyer, K., & Gooty, J. (2022, August 4–7). *The Value of Management Theory: A Constructive Replication of Miner (2003)* [Symposium presentation]. Academy of Management (AOM), Seattle, WA."
+      - 1. **Redler, E.** & Sockol, L. E. (2020, February 27–29). *Using 20+
+          Years of Conference Participation to Examine Psychology’s “Leaky
+          Pipeline”* [Symposium presentation]. Society for Personality and
+          Social Psychology (SPSP), New Orleans, LA.
+    Conference Posters:
+      - "8. **Redler, E.** & Lewis, R. (2024, April 17–20). *Unpacking Bias in Personality Assessments: A Measurement Invariance Exploration* [Poster presentation]. Society for Industrial and Organizational Psychology (SIOP) Annual Conference, Chicago, IL."
+      - 7. **Redler, E.**, Woehr, D., Loughry, M., & Ohland, M. (2024, April
+          17–20). *Am I Safe? The Interactive Effects of Task and Relationship
+          Conflict in Project Teams* [Poster presentation]. Society for
+          Industrial and Organizational Psychology (SIOP) Annual Conference,
+          Chicago, IL.
+      - 6. Ohland, M., **Redler, E.**, Woehr, D., & Loughry, M. (2023,
+          September 26–29). *Norms for Team Process and Outcome Measures by
+          Race/Ethnicity and Gender* [Poster presentation]. International
+          Conference on Interactive Collaborative Learning (ICL), Madrid, Spain.
+      - 5. **Redler, E.**, Palotto, I. K., Rojas, M., & Sockol, L. E. (2019,
+          November 21–24). *Twenty Years of Women’s Representation at the Annual
+          Meetings of the Association for Behavioral & Cognitive Therapies*
+          [Poster presentation]. Association for Behavioral and Cognitive
+          Therapies (ABCT), Atlanta, GA.
+      - 4. **Redler, E.** & Sockol, L. E. (2019, April 8). *Using 25+ Years of
+          ABCT Conference Participation to Examine Psychology’s “Leaky
+          Pipeline”* [Poster presentation]. Verna Case Undergraduate Research
+          Symposium, Davidson College, Davidson, NC.
+      - 3. **Redler, E.** & Sockol, L. E. (2018, November 15–18). *Using 25+
+          Years of ABCT Conference Participation to Examine Psychology’s “Leaky
+          Pipeline”* [Poster presentation]. Association for Behavioral and
+          Cognitive Therapies (ABCT), Washington, D.C.
+      - 2. Sockol, L. E., **Redler, E.**, Relova, J. G., Pallotto, I. K., &
+          Rojas, M. (2018, November 15–18). *Women’s Representation in the 2017
+          Annual Meeting of the Association for Behavioral and Cognitive
+          Therapies* [Poster presentation]. Association for Behavioral and
+          Cognitive Therapies (ABCT), Washington, D.C.
+      - 1. Sockol, L. E., Relova, J. G., **Redler, E.**, & Thurston, W. A.
+          (2017, November 16–19). *Women’s Representation at the 50th
+          Anniversary Meeting of the Association for Behavioral and Cognitive
+          Therapies* [Poster presentation]. Association for Behavioral and
+          Cognitive Therapies (ABCT), San Diego, CA.
+    Research Experience:
+      - company: "University of North Carolina at Charlotte"
+        position: "Research Assistant"
+        start_date: "2021-08"
+        end_date: "present"
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+          - "Principal Investigator: Dr. David Woehr"
+      - company: "Applied Psychological Techniques (APTMetrics)"
+        position: "Co-Investigator"
+        start_date: "2023-08"
+        end_date: "2023-10"
+        highlights:
+          - "Co-Investigator: Dr. Bob Lewis (Chief Assessor)"
+          - "Project: *Unpacking Bias in Personality Assessments: A Measurement Invariance Exploration*"
+      - company: "Davidson College"
+        position: "Research Assistant"
+        start_date: "2016-09"
+        end_date: "2020-05"
+        highlights:
+          - "Principal Investigators: Dr. Laura Sockol, Dr. Jessica Good"
+    Leadership and Service:
+      - company: Journal of Business and Psychology
+        position: Assistant Editor
+        start_date: 2024-08
+        end_date: 2026-06
+        highlights:
+          - Reviewed manuscript submissions and drafted developmental desk
+            rejection letters providing recommendations to the Editors-in-Chief
+          - Provided hands-on training and shadowing to multiple incoming
+            Assistant Editors
+      - company: Volunteer Program Assessment (VPA)
+        position: Senior Organizational Effectiveness Consultant
+        start_date: 2021-08
+        end_date: 2024-08
+        highlights:
+          - Partnered with U.S.-based nonprofit organizations to assess and
+            strengthen volunteer program effectiveness through structured
+            evaluation
+      - company: Organizational Science Institute (OSI)
+        position: Faculty (2025–2026) and Student Mentor (2021–2024)
+        start_date: 2021-05
+        end_date: 2026-05
+        highlights:
+          - Served as faculty for a program aimed at diversifying the graduate
+            school pipeline
+          - Provided mentorship to underrepresented undergraduate students on
+            research skills and graduate school preparation
+    Technical Skills:
+      - label: "Methods"
+        details: "Predictive modeling, clustering (LCA/LPA, k-means), psychometrics,
+          measurement invariance, people analytics"
+      - label: "Tools"
+        details: "R, Qualtrics, Large-scale data management, Reproducible analytic
+          workflows"
+    Professional Training:
+      - name: Advanced Multilevel Analysis II *(CARMA Short Course)*
+        location: Consortium for Advancement of Research Methods and Analysis (CARMA),
+          *Remote*
+        date: "2025-06"
+        summary: "*Week-long online synchronous course taught by Dr. Paul Bliese on
+          advanced multilevel analytic techniques, including panel data,
+          consensus and emergent models, and dichotomous outcomes.*"
+        highlights: []
+      - name: Doctoral Institute
+        location: Management & Organizational Behavior Teaching Society (MOBTS), *Salem,
+          MA*
+        highlights: []
+        date: 2024-06
+        summary: "*Week-long series of workshops aimed to develop skills in pedagogy,
+          teaching philosophies, and experiential learning, culminating in the
+          design of an original experiential learning session presented during
+          the MOBTS conference.*"
+      - name: Training for Instructors of Record
+        location: University of North Carolina at Charlotte, *Charlotte, NC*
+        highlights: []
+        date: 2024-01
+        summary: "*One-day in-person course aimed to develop skills in classroom
+          management, test development, and increasing student engagement in the
+          classroom.*"
+      - name: Web Scraping *(CARMA Short Course)*
+        date: 2024-01
+        location: Consortium for Advancement of Research Methods and Analysis (CARMA),
+          *Remote*
+        summary: "*Week-long online synchronous course taught by Dr. Richard Landers on
+          web scraping using browser-based tools, R, and RStudio.*"
+    Applied Experience:
+      - company: "Applied Psychological Techniques (APTMetrics)"
+        position: "Project Coordinator"
+        start_date: "2024-06"
+        end_date: "2024-09"
+        location: "Remote"
+        highlights:
+          - "Led pre-analysis data preparation for a Fortune 50 client, shaping
+            strategic decisions across more than 1,000 corporate locations
+            globally"
+          - "Developed a clustering methodology using Latent Class Analysis
+            (LCA) for Situational Judgment Test (SJT) data"
+          - "Collaborated on the development of AI-assisted Behaviorally
+            Anchored Rating Scales (BARS) and competency models"
+      - company: "Trane Technologies"
+        position: "People Analytics Intern"
+        start_date: "2023-08"
+        end_date: "2024-05"
+        location: "Davidson, NC"
+        highlights:
+          - "Built predictive models using supervised learning and logistic
+            regression to estimate unionization likelihood and internal mobility
+            readiness"
+          - "Conducted sentiment analysis of employee engagement data to flag
+            potential legal risks"
+      - company: "Applied Psychological Techniques (APTMetrics)"
+        position: "Consultant Intern"
+        start_date: "2023-06"
+        end_date: "2023-08"
+        location: "Remote"
+        highlights:
+          - "Improved efficiency of personality assessment clustering through
+            development of an optimized latent trait methodology"
+          - "Reduced personality assessment cluster building time by up to 75%,
+            earning CEO recognition"
+      - company: "PartnerRe"
+        position: "Data Science Consultant"
+        start_date: "2022-08"
+        end_date: "2023-05"
+        location: "Remote"
+        highlights:
+          - "Investigated effects of demographic diversity and range restriction
+            on algorithmic decision-making in reinsurance models"
+          - "Presented findings to mixed audiences including actuaries and data
+            scientists"
+      - company: Charter Communications (Spectrum)
+        position: Leadership Development Intern
+        start_date: 2022-06
+        end_date: 2022-08
+        location: Charlotte, NC
+        highlights:
+          - Assessed Spectrum’s leadership development content strategy and
+            deployed e-learning courses
+      - company: University of North Carolina at Charlotte
+        position: Women in Business Graduate Assistant
+        start_date: 2021-08
+        end_date: 2022-05
+        location: Charlotte, NC
+        highlights:
+          - Led leadership trainings and professional development programming
+            for student ambassadors
+      - company: University of North Carolina at Charlotte
+        position: Honors College Graduate Assistant
+        start_date: 2021-05
+        end_date: 2021-08
+        location: Charlotte, NC
+        highlights:
+          - Analyzed Honors College applicant and student data to evaluate
+            selection system performance and recommend process improvements
+          - Communicated actionable recommendations to stakeholders
+  website: https://emilyredler.com
