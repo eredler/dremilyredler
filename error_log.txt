@@ -1,0 +1,194 @@
+jekyll-1  | Entry point script running
+jekyll-1  | Gemfile.lock is tracked by git, keeping it intact
+jekyll-1  | Bundler dependencies already satisfied
+jekyll-1  |   Logging at level: debug
+jekyll-1  |     Jekyll Version: 4.4.1
+jekyll-1  | Configuration file: /srv/jekyll/_config.yml
+jekyll-1  |   Logging at level: debug
+jekyll-1  |     Jekyll Version: 4.4.1
+jekyll-1  |              Theme: al_folio_core
+jekyll-1  |       Theme source: /usr/local/bundle/gems/al_folio_core-1.0.11
+jekyll-1  |          Requiring: liquid
+jekyll-1  |          Requiring: jekyll-3rd-party-libraries
+jekyll-1  |          Requiring: jekyll-archives-v2
+jekyll-1  |          Requiring: jekyll-cache-bust
+jekyll-1  |          Requiring: jekyll-email-protect
+jekyll-1  |          Requiring: jekyll-feed
+jekyll-1  |          Requiring: jekyll-get-json
+jekyll-1  |          Requiring: jekyll-imagemagick
+jekyll-1  |          Requiring: jekyll-jupyter-notebook
+jekyll-1  |          Requiring: jekyll-link-attributes
+jekyll-1  |          Requiring: jekyll-minifier
+jekyll-1  |          Requiring: jekyll-paginate-v2
+jekyll-1  |          Requiring: jekyll-regex-replace
+jekyll-1  |          Requiring: jekyll/scholar
+jekyll-1  |          Requiring: jekyll-sitemap
+jekyll-1  |          Requiring: jekyll-socials
+jekyll-1  |          Requiring: jekyll-tabs
+jekyll-1  |          Requiring: jekyll-terser
+jekyll-1  |          Requiring: jekyll-toc
+jekyll-1  |          Requiring: jekyll-twitter-plugin
+jekyll-1  |          Requiring: jemoji
+jekyll-1  |          Requiring: al_folio_core
+jekyll-1  |          Requiring: al_icons
+jekyll-1  |          Requiring: al_folio_cv
+jekyll-1  |          Requiring: al_folio_distill
+jekyll-1  |          Requiring: al_folio_upgrade
+jekyll-1  |          Requiring: al_folio_bootstrap_compat
+jekyll-1  |          Requiring: al_cookie
+jekyll-1  |          Requiring: al_analytics
+jekyll-1  |          Requiring: al_citations
+jekyll-1  |          Requiring: al_ext_posts
+jekyll-1  |          Requiring: al_img_tools
+jekyll-1  |          Requiring: al_search
+jekyll-1  |          Requiring: al_charts
+jekyll-1  |          Requiring: al_math
+jekyll-1  |          Requiring: al_comments
+jekyll-1  |          Requiring: al_newsletter
+jekyll-1  |             Source: /srv/jekyll
+jekyll-1  |        Destination: /tmp/_site
+jekyll-1  |  Incremental build: disabled. Enable with --incremental
+jekyll-1  |       Generating... 
+jekyll-1  |            Reading: /_layouts/about.liquid
+jekyll-1  |            Reading: /_layouts/archive.liquid
+jekyll-1  |            Reading: /_layouts/bib.liquid
+jekyll-1  |            Reading: /_layouts/book-review.liquid
+jekyll-1  |            Reading: /_layouts/book-shelf.liquid
+jekyll-1  |            Reading: /_layouts/course.liquid
+jekyll-1  |            Reading: /_layouts/cv.liquid
+jekyll-1  |            Reading: /_layouts/default.liquid
+jekyll-1  |            Reading: /_layouts/distill.liquid
+jekyll-1  |            Reading: /_layouts/none.liquid
+jekyll-1  |            Reading: /_layouts/page.liquid
+jekyll-1  |            Reading: /_layouts/post.liquid
+jekyll-1  |            Reading: /_layouts/profiles.liquid
+jekyll-1  |        EntryFilter: excluded /LICENSE
+jekyll-1  |        EntryFilter: excluded /lighthouse_results
+jekyll-1  |        EntryFilter: excluded /bin
+jekyll-1  |        EntryFilter: excluded /Dockerfile
+jekyll-1  |        EntryFilter: excluded /purgecss.config.js
+jekyll-1  |        EntryFilter: excluded /docs
+jekyll-1  |        EntryFilter: excluded /README.md
+jekyll-1  |        EntryFilter: excluded /package-lock.json
+jekyll-1  |        EntryFilter: excluded /package.json
+jekyll-1  |        EntryFilter: excluded /Gemfile
+jekyll-1  |        EntryFilter: excluded /Gemfile.lock
+jekyll-1  |        EntryFilter: excluded /docker-compose.yml
+jekyll-1  |        EntryFilter: excluded /docker-compose-slim.yml
+jekyll-1  |        EntryFilter: excluded /.jekyll-cache
+jekyll-1  |        EntryFilter: excluded /readme_preview
+jekyll-1  |            Reading: _posts/2015-03-15-formatting-and-links.md
+jekyll-1  | DEPRECATION WARNING: to_time will always preserve the timezone offset of the receiver in Rails 8.0. To opt in to the new behavior, set `ActiveSupport.to_time_preserves_timezone = true`. (called from <top (required)> at /usr/local/bundle/bin/jekyll:25)
+jekyll-1  |            Reading: _posts/2015-05-15-images.md
+jekyll-1  |            Reading: _posts/2015-07-15-code.md
+jekyll-1  |            Reading: _posts/2015-10-20-disqus-comments.md
+jekyll-1  |            Reading: _posts/2015-10-20-math.md
+jekyll-1  |            Reading: _posts/2018-12-22-distill.md
+jekyll-1  |            Reading: _posts/2020-09-28-twitter.md
+jekyll-1  |            Reading: _posts/2021-07-04-diagrams.md
+jekyll-1  |            Reading: _posts/2022-02-01-redirect.md
+jekyll-1  |            Reading: _posts/2022-12-10-giscus-comments.md
+jekyll-1  |            Reading: _posts/2023-03-20-table-of-contents.md
+jekyll-1  |            Reading: _posts/2023-03-21-tables.md
+jekyll-1  |            Reading: _posts/2023-04-24-videos.md
+jekyll-1  |            Reading: _posts/2023-04-25-audios.md
+jekyll-1  |            Reading: _posts/2023-04-25-sidebar-table-of-contents.md
+jekyll-1  |            Reading: _posts/2023-05-12-custom-blockquotes.md
+jekyll-1  |            Reading: _posts/2023-07-04-jupyter-notebook.md
+jekyll-1  |            Reading: _posts/2023-07-12-post-bibliography.md
+jekyll-1  |            Reading: _posts/2023-12-12-tikzjax.md
+jekyll-1  |            Reading: _posts/2024-01-26-chartjs.md
+jekyll-1  |            Reading: _posts/2024-01-26-echarts.md
+jekyll-1  |            Reading: _posts/2024-01-26-geojson-map.md
+jekyll-1  |            Reading: _posts/2024-01-27-advanced-images.md
+jekyll-1  |            Reading: _posts/2024-01-27-code-diff.md
+jekyll-1  |            Reading: _posts/2024-01-27-vega-lite.md
+jekyll-1  |            Reading: _posts/2024-04-15-pseudocode.md
+jekyll-1  |            Reading: _posts/2024-04-28-post-citation.md
+jekyll-1  |            Reading: _posts/2024-04-29-typograms.md
+jekyll-1  |            Reading: _posts/2024-05-01-tabs.md
+jekyll-1  |            Reading: _posts/2024-12-04-photo-gallery.md
+jekyll-1  |            Reading: _posts/2025-03-26-plotly.md
+jekyll-1  |        EntryFilter: excluded /_pages/about_einstein.md
+jekyll-1  |            Reading: _pages/repositories.md
+jekyll-1  |            Reading: _pages/cv.md
+jekyll-1  |            Reading: _pages/news.md
+jekyll-1  |            Reading: _pages/profiles.md
+jekyll-1  |            Reading: _pages/blog.md
+jekyll-1  |            Reading: _pages/dropdown.md
+jekyll-1  |            Reading: _pages/projects.md
+jekyll-1  |            Reading: _pages/publications.md
+jekyll-1  |            Reading: _pages/plugins.md
+jekyll-1  |            Reading: _pages/teaching.md
+jekyll-1  |            Reading: _pages/404.md
+jekyll-1  |            Reading: _pages/about.md
+jekyll-1  |            Reading: _pages/books.md
+jekyll-1  |            Reading: robots.txt
+jekyll-1  |            Reading: _books/the_godfather.md
+jekyll-1  |            Reading: _news/announcement_1.md
+jekyll-1  |            Reading: _news/announcement_2.md
+jekyll-1  |            Reading: _news/announcement_3.md
+jekyll-1  |            Reading: _projects/1_project.md
+jekyll-1  |            Reading: _projects/2_project.md
+jekyll-1  |            Reading: _projects/3_project.md
+jekyll-1  |            Reading: _projects/4_project.md
+jekyll-1  |            Reading: _projects/5_project.md
+jekyll-1  |            Reading: _projects/6_project.md
+jekyll-1  |            Reading: _projects/7_project.md
+jekyll-1  |            Reading: _projects/8_project.md
+jekyll-1  |            Reading: _projects/9_project.md
+jekyll-1  |            Reading: _teachings/data-science-fundamentals.md
+jekyll-1  |            Reading: _teachings/introduction-to-machine-learning.md
+jekyll-1  |            Reading: assets/css/main.scss
+jekyll-1  |            Reading: _data/citations.yml
+jekyll-1  |            Reading: _data/coauthors.yml
+jekyll-1  |            Reading: _data/cv.yml
+jekyll-1  |            Reading: _data/cv_emily.yml
+jekyll-1  | bundler: failed to load command: jekyll (/usr/local/bundle/bin/jekyll)
+jekyll-1  | /usr/local/lib/ruby/4.0.0/psych/parser.rb:62:in 'Psych::Parser#_native_parse': (/srv/jekyll/_data/cv_emily.yml): mapping values are not allowed in this context at line 12 column 13 (Psych::SyntaxError)
+jekyll-1  | 	from /usr/local/lib/ruby/4.0.0/psych/parser.rb:62:in 'Psych::Parser#parse'
+jekyll-1  | 	from /usr/local/bundle/gems/safe_yaml-1.0.5/lib/safe_yaml/load.rb:143:in 'SafeYAML.load'
+jekyll-1  | 	from /usr/local/bundle/gems/safe_yaml-1.0.5/lib/safe_yaml/load.rb:157:in 'block in SafeYAML.load_file'
+jekyll-1  | 	from /usr/local/bundle/gems/safe_yaml-1.0.5/lib/safe_yaml/load.rb:157:in 'IO.open'
+jekyll-1  | 	from /usr/local/bundle/gems/safe_yaml-1.0.5/lib/safe_yaml/load.rb:157:in 'SafeYAML.load_file'
+jekyll-1  | 	from /usr/local/bundle/gems/jekyll-4.4.1/lib/jekyll/readers/data_reader.rb:66:in 'Jekyll::DataReader#read_data_file'
+jekyll-1  | 	from /usr/local/bundle/gems/jekyll-4.4.1/lib/jekyll/readers/data_reader.rb:49:in 'block in Jekyll::DataReader#read_data_to'
+jekyll-1  | 	from /usr/local/bundle/gems/jekyll-4.4.1/lib/jekyll/readers/data_reader.rb:41:in 'Array#each'
+jekyll-1  | 	from /usr/local/bundle/gems/jekyll-4.4.1/lib/jekyll/readers/data_reader.rb:41:in 'Jekyll::DataReader#read_data_to'
+jekyll-1  | 	from /usr/local/bundle/gems/jekyll-4.4.1/lib/jekyll/readers/data_reader.rb:23:in 'Jekyll::DataReader#read'
+jekyll-1  | 	from /usr/local/bundle/gems/jekyll-4.4.1/lib/jekyll/reader.rb:31:in 'Jekyll::Reader#read_data'
+jekyll-1  | 	from /usr/local/bundle/gems/jekyll-4.4.1/lib/jekyll/reader.rb:21:in 'Jekyll::Reader#read'
+jekyll-1  | 	from /usr/local/bundle/gems/jekyll-4.4.1/lib/jekyll/site.rb:181:in 'Jekyll::Site#read'
+jekyll-1  | 	from /usr/local/bundle/gems/jekyll-4.4.1/lib/jekyll/site.rb:78:in 'Jekyll::Site#process'
+jekyll-1  | 	from /usr/local/bundle/gems/jekyll-4.4.1/lib/jekyll/command.rb:28:in 'Jekyll::Command.process_site'
+jekyll-1  | 	from /usr/local/bundle/gems/jekyll-4.4.1/lib/jekyll/commands/build.rb:65:in 'Jekyll::Commands::Build.build'
+jekyll-1  | 	from /usr/local/bundle/gems/jekyll-4.4.1/lib/jekyll/commands/build.rb:36:in 'Jekyll::Commands::Build.process'
+jekyll-1  | 	from /usr/local/bundle/gems/jekyll-4.4.1/lib/jekyll/command.rb:91:in 'block in Jekyll::Command.process_with_graceful_fail'
+jekyll-1  | 	from /usr/local/bundle/gems/jekyll-4.4.1/lib/jekyll/command.rb:91:in 'Array#each'
+jekyll-1  | 	from /usr/local/bundle/gems/jekyll-4.4.1/lib/jekyll/command.rb:91:in 'Jekyll::Command.process_with_graceful_fail'
+jekyll-1  | 	from /usr/local/bundle/gems/jekyll-4.4.1/lib/jekyll/commands/serve.rb:85:in 'block (2 levels) in Jekyll::Commands::Serve.init_with_program'
+jekyll-1  | 	from /usr/local/bundle/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in 'block in Mercenary::Command#execute'
+jekyll-1  | 	from /usr/local/bundle/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in 'Array#each'
+jekyll-1  | 	from /usr/local/bundle/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in 'Mercenary::Command#execute'
+jekyll-1  | 	from /usr/local/bundle/gems/mercenary-0.4.0/lib/mercenary/program.rb:44:in 'Mercenary::Program#go'
+jekyll-1  | 	from /usr/local/bundle/gems/mercenary-0.4.0/lib/mercenary.rb:21:in 'Mercenary.program'
+jekyll-1  | 	from /usr/local/bundle/gems/jekyll-4.4.1/exe/jekyll:15:in '<top (required)>'
+jekyll-1  | 	from /usr/local/lib/ruby/4.0.0/rubygems.rb:305:in 'Kernel#load'
+jekyll-1  | 	from /usr/local/lib/ruby/4.0.0/rubygems.rb:305:in 'Gem.activate_and_load_bin_path'
+jekyll-1  | 	from /usr/local/bundle/bin/jekyll:25:in '<top (required)>'
+jekyll-1  | 	from /usr/local/bundle/gems/bundler-4.0.6/lib/bundler/cli/exec.rb:61:in 'Kernel.load'
+jekyll-1  | 	from /usr/local/bundle/gems/bundler-4.0.6/lib/bundler/cli/exec.rb:61:in 'Bundler::CLI::Exec#kernel_load'
+jekyll-1  | 	from /usr/local/bundle/gems/bundler-4.0.6/lib/bundler/cli/exec.rb:24:in 'Bundler::CLI::Exec#run'
+jekyll-1  | 	from /usr/local/bundle/gems/bundler-4.0.6/lib/bundler/cli.rb:500:in 'Bundler::CLI#exec'
+jekyll-1  | 	from /usr/local/bundle/gems/bundler-4.0.6/lib/bundler/vendor/thor/lib/thor/command.rb:28:in 'Bundler::Thor::Command#run'
+jekyll-1  | 	from /usr/local/bundle/gems/bundler-4.0.6/lib/bundler/vendor/thor/lib/thor/invocation.rb:127:in 'Bundler::Thor::Invocation#invoke_command'
+jekyll-1  | 	from /usr/local/bundle/gems/bundler-4.0.6/lib/bundler/vendor/thor/lib/thor.rb:538:in 'Bundler::Thor.dispatch'
+jekyll-1  | 	from /usr/local/bundle/gems/bundler-4.0.6/lib/bundler/cli.rb:35:in 'Bundler::CLI.dispatch'
+jekyll-1  | 	from /usr/local/bundle/gems/bundler-4.0.6/lib/bundler/vendor/thor/lib/thor/base.rb:584:in 'Bundler::Thor::Base::ClassMethods#start'
+jekyll-1  | 	from /usr/local/bundle/gems/bundler-4.0.6/lib/bundler/cli.rb:29:in 'Bundler::CLI.start'
+jekyll-1  | 	from /usr/local/bundle/gems/bundler-4.0.6/exe/bundle:28:in 'block in <top (required)>'
+jekyll-1  | 	from /usr/local/bundle/gems/bundler-4.0.6/lib/bundler/friendly_errors.rb:118:in 'Bundler.with_friendly_errors'
+jekyll-1  | 	from /usr/local/bundle/gems/bundler-4.0.6/exe/bundle:20:in '<top (required)>'
+jekyll-1  | 	from /usr/local/lib/ruby/4.0.0/rubygems.rb:305:in 'Kernel#load'
+jekyll-1  | 	from /usr/local/lib/ruby/4.0.0/rubygems.rb:305:in 'Gem.activate_and_load_bin_path'
+jekyll-1  | 	from /usr/local/bundle/bin/bundle:25:in '<main>'
